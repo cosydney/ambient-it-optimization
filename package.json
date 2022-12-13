@@ -9,7 +9,7 @@
     "confetti-js": "^0.0.15",
     "customize-cra": "^0.2.13",
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-favicon": "^2.0.1",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
